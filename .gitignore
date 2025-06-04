@@ -1,0 +1,18 @@
+# Ignore model files
+*.h5
+
+
+# Ignore test images
+#test_images/
+model_training_notebook/plantvillage_dataset
+
+# Ignore checkpoints and caches
+__pycache__/
+*.ipynb_checkpoints/
+
+# Ignore VS Code config
+.vscode/
+
+# Ignore environment folders
+env/
+.venv/
